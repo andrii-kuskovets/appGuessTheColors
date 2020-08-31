@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##CODESANBOX 
+https://codesandbox.io/s/guess-the-colors-su2k4?file=/src/components/board.js
 
 ## Available Scripts
 
